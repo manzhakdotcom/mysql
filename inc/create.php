@@ -13,5 +13,5 @@
     <input type="text" name="year">
     <input type="text" name="isbn">
     <input type="text" name="genre">
-    <input type="submit" name="add" value="Обновить">
+    <input type="submit" name="add" value="Добавить">
 </form>
